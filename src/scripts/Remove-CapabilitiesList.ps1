@@ -11,7 +11,7 @@ function Remove-CapabilitiesList() {
         "App.StepsRecorder*"                # Steps Recorder
         "Browser.InternetExplorer*"         # Internet Explorer (Also has on Optional Features)
         "MathRecognizer*"                   # Math Recognizer
-        "Microsoft.Windows.PowerShell.ISE*" # PowerShell ISE
+        # "Microsoft.Windows.PowerShell.ISE*" # PowerShell ISE
         "Microsoft.Windows.WordPad*"        # WordPad
         "Print.Fax.Scan*"                   # Fax features
         "Print.Management.Console*"         # printmanagement.msc
